@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.container{
+	width: 100vw;
+	height: 100vh;
+	background: #00FF40;
+	display: flex; 				/* definição para a usar os recurso da dunção flex box*/
+	flex-direction: row;		/*infomando que o conteudo vai ser distribuido na forma de coluna*/
+	justify-content: center;	/* centralizando no eixo da coluna o conteudo*/
+	align-items: center;		/* informa que os itens vão ficar alinhadpos no centro*/
+}

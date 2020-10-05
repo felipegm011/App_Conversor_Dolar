@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:22:22:56 -0300] "GET /intro-spring/cotacao HTTP/1.1" 200 162 http-bio-9090-exec-1 1274
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:22:23:05 -0300] "GET /intro-spring/formulario HTTP/1.1" 404 949 http-bio-9090-exec-4 14
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:22:36:06 -0300] "GET /Cotacao-Dolar/cotacao HTTP/1.1" 200 162 http-bio-9090-exec-2 1278
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:23:55:55 -0300] "GET /Cotacao-Dolar/cotacao HTTP/1.1" 200 1145 http-bio-9090-exec-2 1981
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:23:55:56 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:23:59:32 -0300] "GET /Cotacao-Dolar/cotacao HTTP/1.1" 200 1145 http-bio-9090-exec-6 12
+0:0:0:0:0:0:0:1 - - [25/Sep/2020:23:59:34 -0300] "GET /Cotacao-Dolar/cotacao HTTP/1.1" 200 1145 http-bio-9090-exec-7 4
